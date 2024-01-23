@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func Map() {
+func Map(){
 	biodata := map[string]string {
 		"firstname": "Gabriel",
 		"lastname": "Putra",
