@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-	// fmt.Println("--------------")
+	fmt.Println("--------------")
 	Map()
 
 	// fmt.Println("--------------")
@@ -15,6 +15,6 @@ func main(){
 	// fmt.Println("--------------")
 	// Pointer("Gabriel")
 
-	fmt.Println("--------------")
+	// fmt.Println("--------------")
 	// Routine(5)
 }
