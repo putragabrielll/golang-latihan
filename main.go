@@ -4,7 +4,7 @@ import "fmt"
 
 func main(){
 	// fmt.Println("--------------")
-	// Map()
+	Map()
 
 	// fmt.Println("--------------")
 	// Conditional("gabriel")
@@ -16,5 +16,5 @@ func main(){
 	// Pointer("Gabriel")
 
 	fmt.Println("--------------")
-	Routine(5)
+	// Routine(5)
 }
